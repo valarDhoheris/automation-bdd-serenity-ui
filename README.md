@@ -1,1 +1,1 @@
-# cucumber-ui-api
+# bdd-serenity-ui-automation
